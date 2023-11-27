@@ -1,7 +1,7 @@
-# Experiment--02-Implementation-of-combinational-logic
+## Name:Naveenkanthan L
+## Reg.No:23007705
 
-Name:Naveenkanthan L<br>
-Reg.No:23007705
+# Experiment-02 Implementation of combinational logic
  
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
