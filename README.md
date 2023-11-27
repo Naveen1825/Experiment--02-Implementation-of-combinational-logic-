@@ -1,4 +1,4 @@
-Name:Naveenkanthan L
+Name:Naveenkanthan L<br>
 Reg.No:23007705
 
 # Experiment-02 Implementation of combinational logic
